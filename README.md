@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 </br>
-<img width="30%" align="right" alt="Github" src="https://github.com/jacobrees/jacobrees/blob/master/logo.png?raw=true" />
+<img width="33%" align="right" alt="Github" src="https://github.com/jacobrees/jacobrees/blob/master/logo.png?raw=true" />
 
 - 🤔 I’m currently open to new opportunities.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
