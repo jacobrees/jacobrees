@@ -7,7 +7,6 @@
 
 - 🤔 I’m currently open to new opportunities.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
-- ⚡ Fun fact: ... I enjoy reading about personal development and analytical psychology.
 - 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://frozen-bayou-26312.herokuapp.com/)
 
 
