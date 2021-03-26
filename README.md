@@ -18,7 +18,6 @@
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
