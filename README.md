@@ -20,6 +20,7 @@
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img height= 35px src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
