@@ -1,14 +1,15 @@
-## 👋 Hi! I'm Jacob. 
-
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://frozen-bayou-26312.herokuapp.com/)
 </br>
-<img width="33%" align="right" alt="Github" src="https://github.com/jacobrees/jacobrees/blob/master/logo.png?raw=true" />
 
-- 🤔 I’m currently open to new opportunities.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
+Hi, I'm [Jacob Rees](https://blog.abhisheknaidu.tech/), a Full Stack Web Developer and a Freelance Software Engineer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
 - 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://frozen-bayou-26312.herokuapp.com/)
-
 
 
 ## 🔧 Technologies & Tools
