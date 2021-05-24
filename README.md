@@ -4,8 +4,6 @@
 </br>
 
 Hi, I'm [Jacob Rees](https://always.blue/), a Full Stack Web Developer and a Freelance Software Engineer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
