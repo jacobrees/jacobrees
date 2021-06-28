@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=My+Website...+Click+Here)](https://www.always.blue/)
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
@@ -8,6 +9,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
 - 💬 Ask me about anything;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
 - 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
+- ⚡ Languages: English & Russian
 
 
 ## 🔧 Technologies & Tools
