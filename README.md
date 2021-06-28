@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=32&vCenter=true&multiline=true&width=500&height=55&lines=My+Website...+Click+Me!)](https://always.blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=32&multiline=true&width=500&height=45&lines=My+Website...+Click+Me!)](https://always.blue)
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
