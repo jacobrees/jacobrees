@@ -10,6 +10,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
 - 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
 - ⚡ Languages: English & Russian
+- :blue_heart: Fun Fact: Blue is my favourite color!
 
 
 ## 🔧 Technologies & Tools
