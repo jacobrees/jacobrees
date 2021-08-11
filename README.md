@@ -1,4 +1,3 @@
-<a href="https://always.blue/"><img width="100%" src="https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&lines=My+Website...+Click+Me!"></a>
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
