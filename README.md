@@ -28,9 +28,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
   <code><img height= 50px src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
     <code><img height= 50px src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
   
