@@ -1,13 +1,13 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
-[![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
+[![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-rolypoly-46a048.netlify.app/)
 </br>
 
 Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 - 💬 Ask me about anything;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
-- 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://always.blue/)
+- 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-rolypoly-46a048.netlify.app/)
 - :blue_car: Fun fact: Blue is my favourite color!
 
 
@@ -30,4 +30,4 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
     <code><img height= 50px src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
   
 
-# 🚧 why are you not on [my web site](https://always.blue/) 🚧
+# 🚧 why are you not on [my web site](https://willowy-rolypoly-46a048.netlify.app/) 🚧
