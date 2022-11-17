@@ -21,6 +21,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>  
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img height= 50px src="https://redux.js.org/img/redux-logo-landscape.png"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
