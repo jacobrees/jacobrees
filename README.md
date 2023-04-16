@@ -26,6 +26,9 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer
   <code><img height= 50px src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  
+## Stats
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrees&show_icons=true)
 
 
 # 🚧 why are you not on [my web site](https://willowy-sunshine-c2cfb9.netlify.app/) 🚧
