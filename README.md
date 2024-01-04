@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-sunshine-c2cfb9.netlify.app/)
 </br>
 
-Hi, I'm Jacob Rees, a Full Stack Web Developer and a Freelance Software Engineer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 - 💬 Ask me about anything;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
