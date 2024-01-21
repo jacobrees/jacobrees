@@ -8,13 +8,14 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
 - 💬 Ask me about anything;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
 - 🔭 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-sunshine-c2cfb9.netlify.app/)
-- :blue_car: Fun fact: Blue is my favourite color!
+- :blue_car: Fun fact: Blue is my favorite color!
 
 
 ## 🔧 Technologies & Tools
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
