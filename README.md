@@ -16,12 +16,11 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img height= 50px src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
