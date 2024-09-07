@@ -12,10 +12,10 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
 
 
 ## 🔧 Technologies & Tools
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
