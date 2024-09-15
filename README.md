@@ -15,6 +15,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
@@ -25,6 +26,7 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   
 ## :bell: Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrees&show_icons=true)
