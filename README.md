@@ -26,6 +26,8 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
   
 ## :bell: Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrees&show_icons=true)
