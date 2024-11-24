@@ -30,7 +30,10 @@ Hi, I'm Jacob Rees, a Full Stack Web Developer from the United Kingdom. I make s
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
   
 ## :bell: Stats
+[![Jacob's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobrees&layout=pie&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrees&show_icons=true)
+
+
 
 
 # 🚧 why are you not on [my web site](https://willowy-sunshine-c2cfb9.netlify.app/) 🚧
