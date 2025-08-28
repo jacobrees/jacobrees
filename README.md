@@ -1,5 +1,4 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 </br>
 
 Hi, I'm Jacob Rees, a Frontend Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
