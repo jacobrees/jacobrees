@@ -2,9 +2,10 @@
 
 Hi, I'm Jacob Rees, a Frontend Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 💬 Ask me about anything;
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/);
-- :blue_car: Fun fact: Blue is my favorite color!
+- 💬 Ask me about anything!
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
+- 🖥️ Check out my Portfolio! [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-sunshine-c2cfb9.netlify.app/)
+- :blue_car: Fun fact: Blue is my favourite colour!
 
 
 ## 🔧 Technologies & Tools
