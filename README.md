@@ -11,8 +11,9 @@ Hi, I'm Jacob Rees, a Frontend Web Developer from the United Kingdom. I make sof
 ## 🔧 Technologies & Tools
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
-  <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code>
+  <code><img height= 50px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
