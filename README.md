@@ -1,6 +1,8 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Jacob Rees, a Frontend Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Jacob,
+
+a Frontend Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Alongside development, I’m deeply passionate about guitar and music technology — and I love combining both worlds. I'm currently building digital tools for musicians, and I’m always exploring the intersection of creativity and code.
   
