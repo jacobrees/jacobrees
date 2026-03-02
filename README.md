@@ -1,11 +1,13 @@
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Jacob Rees, a Frontend Web Developer from the United Kingdom. I make software come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+Alongside development, I’m deeply passionate about guitar and music technology — and I love combining both worlds. I'm currently building digital tools for musicians, and I’m always exploring the intersection of creativity and code.
   
 - 💬 Ask me about anything!
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
 - 🖥️ Check out my Portfolio! [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-sunshine-c2cfb9.netlify.app/)
-- :blue_car: Fun fact: Blue is my favourite colour!
+- 🎸 Fun fact: playing the guitar is scientifically proven to be beneficial for your brain!
 
 
 ## 🔧 Technologies & Tools
