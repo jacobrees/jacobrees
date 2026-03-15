@@ -8,7 +8,7 @@ Alongside development, I’m deeply passionate about guitar and music technology
   
 - 💬 Ask me about anything!
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-rees/)
-- 🖥️ Check out my Portfolio! [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://willowy-sunshine-c2cfb9.netlify.app/)
+- 🖥️ Check out my Portfolio! [![Portfolio](https://img.shields.io/badge/Jacob--Rees-Portfolio-brightgreen)](https://jacobreesdev.netlify.app/)
 - 🎸 Fun fact: playing the guitar is scientifically proven to be beneficial for your brain!
 
 
@@ -29,4 +29,4 @@ Alongside development, I’m deeply passionate about guitar and music technology
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img height= 50px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-# 🚧 Why are you not on [my website](https://willowy-sunshine-c2cfb9.netlify.app/) 🚧
+# 🚧 Why are you not on [my website](https://jacobreesdev.netlify.app/) 🚧
